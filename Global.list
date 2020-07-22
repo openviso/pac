@@ -16,7 +16,6 @@ host-suffix, duckduckgo.com, Global
 host-suffix, discord.gg, Global
 host-suffix, discuss.com.hk, Global
 
-
 host-keyword, facebook, Global
 host-suffix, fb.com, Global
 host-suffix, fb.me, Global
@@ -135,10 +134,12 @@ host-suffix, onedrive.com, Global
 host-suffix, storage.live.com, Global
 host-suffix, storage.msn.com, Global
 host, oneclient.sfx.ms, Global
-
 # > YouTube
 USER-AGENT,com.google.ios.youtube*,Global
 USER-AGENT,YouTube*,Global
 DOMAIN-SUFFIX,googlevideo.com,Global
 DOMAIN-SUFFIX,youtube.com,Global
 DOMAIN,youtubei.googleapis.com,Global
+# > 机场
+host-suffix, sy168.site, Global
+host-suffix, aloy.asia, Global

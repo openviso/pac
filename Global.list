@@ -19,6 +19,7 @@ host-suffix, duckduckgo.com, Global
 host-suffix, discord.gg, Global
 host-suffix, discuss.com.hk, Global
 
+host-keyword, facebook, Global
 host-suffix, flickr.com, Global
 host-suffix, freewechat.com, Global
 host-suffix, freeweibo.com, Global

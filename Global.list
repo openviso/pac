@@ -31,6 +31,10 @@ host-suffix, freewechat.com, Global
 host-suffix, freeweibo.com, Global
 
 host-keyword, github, Global
+DOMAIN-SUFFIX,ggpht.com,PROXY
+DOMAIN-SUFFIX,gmail.com,PROXY
+DOMAIN-SUFFIX,gmodules.com,PROXY
+DOMAIN-SUFFIX,gstatic.com,PROXY
 
 host-suffix, instagram.com, Global
 host-suffix, cdninstagram.com, Global
@@ -84,6 +88,15 @@ host-suffix, getoutline.org, Global
 host-suffix, googleapis.cn, Global
 host-keyword, google, Global
 host-keyword, blogspot, Global
+# > Gmail
+DOMAIN,pop.gmail.com,Mail
+DOMAIN,imap.gmail.com,Mail
+DOMAIN,smtp.gmail.com,Mail
+# > Outlook
+DOMAIN,outlook.office365.com,Mail
+DOMAIN,smtp.office365.com,Mail
+DOMAIN,imap-mail.outlook.com,Mail
+DOMAIN,smtp-mail.outlook.com,Mail
 # > PayPal
 user-agent, PayPal*, Global
 host-suffix, paypal.com, Global

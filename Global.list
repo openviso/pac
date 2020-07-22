@@ -1,10 +1,8 @@
 # Global.list
 # (DNS Cache Pollution Protection)
 
-host-suffix, archive.is, Global
 host-suffix, archive.org, Global
 host-suffix, apkpure.com, Global
-
 
 host-suffix, bit.ly, Global
 host-suffix, bitshare.com, Global

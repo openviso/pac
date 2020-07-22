@@ -1,3 +1,4 @@
+
 # Global.list
 # (DNS Cache Pollution Protection)
 
@@ -5,7 +6,7 @@ host-suffix, archive.org, Global
 host-suffix, apkpure.com, Global
 
 host-suffix, bit.ly, Global
-host-suffix, bitshare.com, Global
+host-suffix, blogger.com,Global
 host-suffix, blog.jp, Global
 host-suffix, blogimg.jp, Global
 host-suffix, blogtd.org, Global
@@ -16,6 +17,7 @@ host-suffix, dropboxusercontent.com, Global
 host-suffix, duckduckgo.com, Global
 host-suffix, discord.gg, Global
 host-suffix, discuss.com.hk, Global
+
 
 host-keyword, facebook, Global
 host-suffix, fb.com, Global
@@ -52,7 +54,10 @@ host-suffix, redditmedia.com, Global
 
 host-suffix, rixcloud.com, Global
 
-host-suffix, textnow.me, Global
+host-suffix,tumblr.com,Global
+host-suffix,twimg.com,Global
+host-suffix,twitpic.com,Global
+host-suffix,twitter.com,Global
 
 host-suffix, videopress.com, Global
 host-suffix, vimeo.com, Global
@@ -69,8 +74,6 @@ host-suffix, x-art.com, Global
 host-suffix, youtu.be, Global
 host-suffix, yt.be, Global
 host-suffix, ytimg.com, Global
-
-host-suffix, zoom.us, Global
 
 
 # > 维基百科
@@ -124,9 +127,6 @@ ip-cidr, 91.108.8.0/21, Global
 ip-cidr, 91.108.16.0/21, Global
 ip-cidr, 91.108.56.0/22, Global
 ip-cidr, 149.154.160.0/20, Global
-ip6-cidr, 2001:67c:4e8::/48, Global
-ip6-cidr, 2001:b28:f23d::/48, Global
-ip6-cidr, 2001:b28:f23f::/48, Global
 # > Microsoft
 # >> Microsoft OneDrive
 host-suffix, 1drv.com, Global
@@ -139,8 +139,8 @@ host-suffix, storage.msn.com, Global
 host, oneclient.sfx.ms, Global
 
 # > YouTube
-USER-AGENT,com.google.ios.youtube*,GlobalMedia
-USER-AGENT,YouTube*,GlobalMedia
-DOMAIN-SUFFIX,googlevideo.com,GlobalMedia
-DOMAIN-SUFFIX,youtube.com,GlobalMedia
-DOMAIN,youtubei.googleapis.com,GlobalMedia
+USER-AGENT,com.google.ios.youtube*,Global
+USER-AGENT,YouTube*,Global
+DOMAIN-SUFFIX,googlevideo.com,Global
+DOMAIN-SUFFIX,youtube.com,Global
+DOMAIN,youtubei.googleapis.com,Global

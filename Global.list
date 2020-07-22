@@ -20,11 +20,20 @@ host-suffix, discord.gg, Global
 host-suffix, discuss.com.hk, Global
 
 host-keyword, facebook, Global
+host-suffix, fb.com, Global
+host-suffix, fb.me, Global
+host-suffix, fbaddins.com, Global
+host-suffix, fbcdn.net, Global
+host-suffix, fbsbx.com, Global
+host-suffix, fbworkmail.com, Global
 host-suffix, flickr.com, Global
 host-suffix, freewechat.com, Global
 host-suffix, freeweibo.com, Global
 
 host-keyword, github, Global
+
+host-suffix, instagram.com, Global
+host-suffix, cdninstagram.com, Global
 
 host-suffix, medium.com, Global
 host-suffix, mega.nz, Global
@@ -59,7 +68,6 @@ host-suffix, yt.be, Global
 host-suffix, ytimg.com, Global
 
 host-suffix, zoom.us, Global
-
 
 
 # > 维基百科
